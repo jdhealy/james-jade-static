@@ -13,14 +13,14 @@
   },
   "dependencies": {
     "james": "~0.1.5",
-    "jade": "~0.35.0"
+    "jade": "https://github.com/visionmedia/jade/tarball/119d64227dc55c5fa58ea61e78ec6c2c92deb5e9/"
   },
   "devDependencies": {
     "james-coffee": "~0.1.1",
     "mocha": "~1.8.2",
     "jshint": "~1.1.0",
     "readable-stream": "~1.0.2",
-    "jade": "~0.35.0",
+    "jade": "https://github.com/visionmedia/jade/tarball/119d64227dc55c5fa58ea61e78ec6c2c92deb5e9/",
     "james": "~0.1.5"
   },
   "licence": "MIT"
